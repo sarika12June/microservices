@@ -1,0 +1,14 @@
+Docker Notes
+---------------------------------------------
+
+installation steps
+
+1)https://www.virtualbox.org/wiki/Downloads
+
+2)https://www.linuxliteos.com/download.php#current
+
+docker logout
+
+docker pull in28min/todo-rest-api-h2:1.0.0.RELEASE
+
+docker run in28min/todo-rest-api-h2:1.0.0.RELEASE
