@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a879d23-0148-4089-abda-627ee1637dd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/in28minutes/microservices/apigateway/LoggingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/in28minutes/microservices/limitsservice/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/in28minutes/microservices/limitsservice/Limits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/in28minutes/microservices/limitsservice/LimitsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
